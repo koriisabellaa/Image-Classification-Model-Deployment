@@ -175,8 +175,7 @@ plt.tight_layout()
 
 plt.show()
 
-labels = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal'
-              ,'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
+labels = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal' ,'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
 
 plt.figure(figsize=(12,12))
 
